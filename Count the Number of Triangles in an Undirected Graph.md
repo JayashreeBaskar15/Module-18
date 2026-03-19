@@ -22,8 +22,8 @@ Also, initialize a matrix `aux3` to store the cube of the adjacency matrix (i.e.
 ## PYTHON PROGRAM
 
 ```
-# 212222060121
-# Kiruthika M
+# 212222060089
+# Jayashree B
 
 def multiply(A, B, C):
 	global V
